@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://chess.com/game/mock/1",
+    "white": {
+      "username": "Player1",
+      "rating": 1800
+    },
+    "black": {
+      "username": "Player2",
+      "rating": 1700
+    },
+    "time_control": "180+0",
+    "time_class": "rapid",
+    "end_time": "2022-01-01T12:00:00Z",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. Nbd2 O-O 9. c3",
+    "result": "1-0"
+  },
+  {
+    "url": "https://chess.com/game/mock/2",
+    "white": {
+      "username": "Player3",
+      "rating": 1900
+    },
+    "black": {
+      "username": "Player4",
+      "rating": 1800
+    },
+    "time_control": "180+0",
+    "time_class": "blitz",
+    "end_time": "2022-01-02T15:30:00Z",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3 O-O 9. Nbd2",
+    "result": "0-1"
+  },
+  {
+    "url": "https://chess.com/game/mock/3",
+    "white": {
+      "username": "Player5",
+      "rating": 1850
+    },
+    "black": {
+      "username": "Player6",
+      "rating": 1750
+    },
+    "time_control": "180+0",
+    "time_class": "rapid",
+    "end_time": "2022-01-03T10:45:00Z",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3 O-O 9. h3",
+    "result": "1/2-1/2"
+  },
+  {
+    "url": "https://chess.com/game/mock/4",
+    "white": {
+      "username": "Player7",
+      "rating": 1950
+    },
+    "black": {
+      "username": "Player8",
+      "rating": 1850
+    },
+    "time_control": "180+0",
+    "time_class": "daily",
+    "end_time": "2022-01-04T18:00:00Z",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. Nbd2",
+    "result": "1/2-1/2"
+  },
+  {
+    "url": "https://chess.com/game/mock/5",
+    "white": {
+      "username": "Player9",
+      "rating": 2000
+    },
+    "black": {
+      "username": "Player10",
+      "rating": 1900
+    },
+    "time_control": "180+0",
+    "time_class": "daily",
+    "end_time": "2022-01-04T18:00:00Z",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. Nbd2",
+    "result": "1/2-1/2"
+  }
+]
+   
